@@ -20,8 +20,10 @@ A few resources to get you started if this is your first Flutter project:
 
 
 ## Frontend 
-
+- https://github.com/salomee080305/App_Soliris/tree/4d4ef3cccb736128a3bdbb468c6fd6fe00471f44/Soliris-main/Frontend
 
 ## Backend
+- https://github.com/salomee080305/App_Soliris/tree/4d4ef3cccb736128a3bdbb468c6fd6fe00471f44/Soliris-main/Backend
 
 ## Soliris Firmware
+- https://github.com/salomee080305/App_Soliris/tree/4d4ef3cccb736128a3bdbb468c6fd6fe00471f44/Soliris-main/soliris-firmware
